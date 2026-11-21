@@ -1,0 +1,15 @@
+
+# Archivos generados por la compilación
+bin/
+obj/
+
+# Archivos temporales de Visual Studio y VS Code
+.vs/
+.vscode/
+
+# Archivos temporales del sistema
+.DS_Store
+Thumbs.db
+
+# Archivos auxiliares de Windows
+desktop.ini
